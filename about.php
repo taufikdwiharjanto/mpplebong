@@ -1,5 +1,6 @@
 <body>
     <?php include 'header.php'; ?>
+    <link rel="icon" type="image/x-icon" href="assets/logompp.ico" />
     <section class="page-section about-heading">
         <div class="container">
             <!-- <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="assets/img/about.jpg" alt="..." /> -->
